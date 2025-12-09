@@ -73,10 +73,6 @@ body {
     transform: scale(1);
     transition: all 0.9s ease 0s;
   }
-  .card:hover .picture img {
-    box-shadow: 0 0 0 14px #f7f5ec;
-    transform: scale(0.7);
-  }
   
   /* porfile image section  */
   /* marin content section  */
